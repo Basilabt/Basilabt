@@ -1,7 +1,5 @@
-<h2 style="font-family: 'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-weight: 600;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg" alt="Apple" width="24" style="vertical-align: middle; margin-right: 8px;" />
-  Hi 👋, I'm Basel AbuTaleb
-</h2>
+## ![Apple](https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg) Hi 👋, I'm Basel AbuTaleb
+
 
 <a href="https://github.com/Basilabt" target="_blank">
   <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
