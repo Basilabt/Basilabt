@@ -3,12 +3,13 @@
 <a href="https://github.com/Basilabt" target="_blank">
   <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
 </a>
+
 <a href="https://www.linkedin.com/in/basel-abutaleb-1a491030b/" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
 </a>
-<!-- Website badge -->
+
 <a href="https://engbaselabutaleb.com" target="_blank">
-  <img src="https://img.shields.io/badge/website-%23FF0000.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" alt="website" style="margin-bottom: 5px;" />
+  <img src="https://img.shields.io/badge/website-orange.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" alt="website" style="margin-bottom: 5px;" />
 </a>
 
 ### About me  
