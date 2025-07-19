@@ -6,9 +6,9 @@
 <a href="https://www.linkedin.com/in/basel-abutaleb-1a491030b/" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
 </a>
-<!-- New badge box example -->
-<a href="https://twitter.com/yourtwitterhandle" target="_blank">
-  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" style="margin-bottom: 5px;" />
+<!-- Website badge -->
+<a href="https://engbaselabutaleb.com" target="_blank">
+  <img src="https://img.shields.io/badge/website-%23FF0000.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" alt="website" style="margin-bottom: 5px;" />
 </a>
 
 ### About me  
@@ -24,7 +24,7 @@ Software Engineer specializing in iOS development, with over 30 live apps publis
   <a href="https://apps.apple.com/developer/your-developer-id" target="_blank" style="display: flex; align-items: center; text-decoration: none;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/App_Store_%28iOS%29.svg" alt="App Store" style="height: 40px; margin-right: 10px;" />
     <button style="
-      background-color: #0070c9;
+      background-color: #FF0000;
       color: white;
       border: none;
       padding: 10px 20px;
