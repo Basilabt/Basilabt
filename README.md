@@ -16,7 +16,7 @@ Software Engineer specializing in iOS development, with over 30 live apps publis
 
 <br/>
 
-### Click To See Latest Publications  
+### My Latest Publications  
 [![App Store](https://img.shields.io/badge/App%20Store-Visit%20My%20Apps-FF0000?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/mr/developer/basel-abutaleb/id1604005525)
 
 
