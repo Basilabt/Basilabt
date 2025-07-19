@@ -1,4 +1,7 @@
-## ![Apple](https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg) Hi 👋, I'm Basel AbuTaleb
+<h2 style="font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-weight: 600;">
+  Hi, I'm Basel AbuTaleb
+</h2>
+
 
 
 <a href="https://github.com/Basilabt" target="_blank">
