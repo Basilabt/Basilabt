@@ -22,7 +22,7 @@ Software Engineer specializing in iOS development, with over 30 live apps publis
 <div style="display: flex; align-items: center; gap: 15px; margin-top: 10px;">
   <!-- App Store icon -->
   <a href="https://apps.apple.com/mr/developer/basel-abutaleb/id1604005525" target="_blank" style="display: flex; align-items: center; text-decoration: none;">
-    <img src="" alt="App Store" style="height: 40px; margin-right: 10px;" />
+    <img height="50" alt="Image" src="https://github.com/user-attachments/assets/54af7a62-ba8c-4869-9116-9f471f5847dd" />
     <button style="
       background-color: #FF0000;
       color: white;
